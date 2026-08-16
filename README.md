@@ -59,7 +59,9 @@ git-mastery/
 ```
 ## �📚 Practice Repositories
 
-Each repository is **completely independent** on GitHub. Clone only what you need, reset without losing progress in other repos!
+Each repository is **independent on GitHub** - clone only what you need, reset without losing progress in other repos!
+
+**Important:** Each repository lists its prerequisites. If you have that knowledge (from any source), you can jump straight to any topic. New to Git? Start with Repository 01 to build a solid foundation.
 
 ### 🟢 Foundation (Start Here if New to Git)
 
